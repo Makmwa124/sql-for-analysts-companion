@@ -1,0 +1,61 @@
+product_id,product_name,category,unit_price,unit_cost
+1,Highland Espresso Beans 1kg,Coffee,42.0,23.74
+2,Morning Blend 500g,Coffee,22.0,10.95
+3,Single Origin Kenya AA 250g,Coffee,18.5,9.72
+4,Decaf Swiss Water 500g,Coffee,24.0,12.47
+5,Ethiopian Yirgacheffe 250g,Coffee,19.5,11.23
+6,Colombian Supremo 1kg,Coffee,39.0,22.21
+7,Cold Brew Coarse Grind 500g,Coffee,21.0,12.46
+8,Dark Roast Sumatra 500g,Coffee,23.0,11.6
+9,Coffee Pods (30 pack),Coffee,16.0,8.66
+10,Instant Specialty Sticks (12),Coffee,14.0,6.98
+11,Guatemala Antigua 250g,Coffee,18.0,9.34
+12,Brazil Santos 1kg,Coffee,34.0,18.72
+13,House Blend 250g,Coffee,12.5,6.22
+14,Espresso Pods (60 pack),Coffee,29.0,14.99
+15,Limited Reserve Geisha 100g,Coffee,48.0,27.19
+16,English Breakfast (100 bags),Tea,11.0,4.99
+17,Earl Grey Loose Leaf 250g,Tea,15.0,6.37
+18,Sencha Green Tea 100g,Tea,13.5,6.18
+19,Chamomile Calm (40 bags),Tea,8.5,4.06
+20,Masala Chai Loose 250g,Tea,16.0,6.49
+21,Peppermint (40 bags),Tea,8.0,3.82
+22,Jasmine Pearls 100g,Tea,22.0,10.29
+23,Oolong Tie Guan Yin 100g,Tea,19.0,8.28
+24,Rooibos Vanilla 200g,Tea,12.0,5.03
+25,Matcha Ceremonial 30g,Tea,32.0,15.72
+26,Kenyan Purple Tea 100g,Tea,17.5,7.62
+27,Lemon Ginger (40 bags),Tea,8.5,3.51
+28,Darjeeling First Flush 100g,Tea,24.0,9.93
+29,Hibiscus Berry 200g,Tea,11.5,5.53
+30,Builder's Tea (240 bags),Tea,18.0,8.27
+31,Pour-Over Dripper,Brewing Gear,28.0,18.43
+32,Glass Carafe 600ml,Brewing Gear,24.0,15.56
+33,French Press 1L,Brewing Gear,45.0,28.1
+34,Burr Grinder Manual,Brewing Gear,69.0,46.83
+35,Electric Burr Grinder,Brewing Gear,189.0,114.33
+36,Gooseneck Kettle,Brewing Gear,79.0,49.49
+37,Digital Scale,Brewing Gear,35.0,23.13
+38,Paper Filters (100),Brewing Gear,7.5,4.76
+39,AeroPress-style Brewer,Brewing Gear,55.0,36.57
+40,Moka Pot 6-cup,Brewing Gear,49.0,30.85
+41,Cold Brew Jar 1.5L,Brewing Gear,38.0,24.52
+42,Tea Infuser Bottle,Brewing Gear,26.0,14.66
+43,Cast Iron Teapot,Brewing Gear,85.0,49.83
+44,Milk Frother,Brewing Gear,32.0,19.0
+45,Espresso Machine Home,Brewing Gear,449.0,254.98
+46,Ceramic Mug 350ml,Accessories,18.0,8.52
+47,Travel Cup 400ml,Accessories,29.0,13.34
+48,Tea Tin Set (3),Accessories,21.0,10.03
+49,Coffee Storage Canister,Accessories,27.0,13.87
+50,Knock Box,Accessories,33.0,16.05
+51,Cleaning Tablets (20),Accessories,15.0,7.31
+52,Barista Apron,Accessories,39.0,18.37
+53,Gift Card $50,Accessories,50.0,23.83
+54,Tasting Notebook,Accessories,12.0,6.52
+55,Espresso Cups (set of 4),Accessories,34.0,17.5
+56,Bamboo Tea Tray,Accessories,59.0,30.14
+57,Descaler 500ml,Accessories,16.0,7.47
+58,Latte Art Pitcher,Accessories,24.0,12.55
+59,Coaster Set (4),Accessories,14.0,6.53
+60,Gift Box Sampler,Accessories,45.0,21.96
