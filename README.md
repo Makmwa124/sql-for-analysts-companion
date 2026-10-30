@@ -50,7 +50,6 @@ The data covers 1 January 2024 to 31 December 2025. It is messy on purpose: dupl
 
 ## Get the book
 
-- **PDF bundle with printable cheat sheets:** [mathewkariuki.gumroad.com/l/sql-for-analysts](https://mathewkariuki.gumroad.com/l/sql-for-analysts)
 - **Kindle:** [Amazon.com](https://www.amazon.com/dp/B0HMN18G8D) · [Amazon.com.au](https://www.amazon.com.au/dp/B0HMN18G8D)
 - **Paperback:** [Amazon.com](https://www.amazon.com/dp/B0HMP4Q7PV) · [Amazon.com.au](https://www.amazon.com.au/dp/B0HMP4Q7PV)
 
