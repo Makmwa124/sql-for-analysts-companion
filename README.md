@@ -58,3 +58,14 @@ The data covers 1 January 2024 to 31 December 2025. It is messy on purpose: dupl
 Bean & Leaf Co. and every person in its data are fictional. The data and queries are free to use for learning. The book itself is © 2026 Mathew Kariuki.
 
 Spotted a problem with a query or the data? Please open an issue.
+
+
+## Free lessons that go with this book
+
+Watch SQL being written step by step, with free notebooks and practice data, on [Mathew K Analytics](https://www.mathewkanalytics.com/):
+
+- [SQL fundamentals for data analysts](https://www.mathewkanalytics.com/lessons/data-analytics-zero-to-hero/016-sql-fundamentals/)
+- [SQL joins and aggregations explained](https://www.mathewkanalytics.com/lessons/data-analytics-zero-to-hero/017-sql-joins-and-aggregations/)
+- [Python + SQL: real analyst queries](https://www.mathewkanalytics.com/lessons/data-analytics-zero-to-hero/018-python-and-sql-analyst-queries/)
+- [SQL in Python with sqlite3](https://www.mathewkanalytics.com/lessons/python-for-data-analysts/011-sql-in-python-with-sqlite3/)
+- [All SQLite lessons](https://www.mathewkanalytics.com/topics/sqlite/) · [Data analyst learning path](https://www.mathewkanalytics.com/paths/data-analyst/) · [Free practice datasets](https://www.mathewkanalytics.com/datasets/)
